@@ -1,4 +1,4 @@
-# Scale-invariant of human mobility and urban structure
+# Scale-invariants of human mobility and urban structure
 
 
 ### Replicate data and code
