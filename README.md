@@ -1,4 +1,4 @@
-# Scale-invariance of human mobility behaviors and the resulting polycentric cities
+# Scale-invariant of human mobility and urban structure
 
 
 ### Replicate data and code
