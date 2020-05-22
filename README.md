@@ -7,9 +7,10 @@ Commuting networks construct the backbone of cities and are considered to be a d
 ### Replication data and code
 
 - data
+    * city-commute | data for Fig. 1 and 2
+    * [simulation](https://drive.google.com/open?id=1TENOLq5R5p-yI0ncEkOab7u2awLxHToQ) ~ 1GB | data for Fig. 4
     
-- model
+- commute.R | R code to reproduce Figs. 1, 2, and 4
     
-- fig
     
 Contact: arch.dongl@gmail.com
